@@ -1,0 +1,6 @@
+{signal:[
+  {name: 'Command Bytes', wave: '2345555567',data:"0x55 0x0A 0x0D 0x00 0x00 0x00 0x00 0x14 0x65 0x08"},
+],
+head:{text:'Setting First Purge Duration to 20 units'},
+config: { hscale: 2 },
+}

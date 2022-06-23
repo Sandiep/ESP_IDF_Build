@@ -1,0 +1,6 @@
+{signal:[
+  {name: 'Command Bytes', wave: '2345555567',data:"0x55 0x0A 0x0B 0x00 0x00 0x00 0x00 0x01 0x65 0x14"},
+],
+head:{text:'Setting First Syringe Direction to ClockWise'},
+config: { hscale: 2 },
+}

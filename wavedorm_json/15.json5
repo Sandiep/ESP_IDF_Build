@@ -1,0 +1,6 @@
+{signal:[
+  {name: 'Command Bytes', wave: '2345555567',data:"0x55 0x0A 0x0A 0x00 0x00 0x00 0x08 0xF2 0x65 0x6C"},
+],
+head:{text:'Starting All Syringes'},
+config: { hscale: 2 },
+}

@@ -1,0 +1,6 @@
+{signal:[
+  {name: 'Command Bytes', wave: '2345555567',data:"0x55 0x0A 0x09 0x00 0x00 0x00 0x08 0xF2 0x65 0x0D"},
+],
+head:{text:'Setting First Syringe Diameter to 22.9 mm'},
+config: { hscale: 2 },
+}

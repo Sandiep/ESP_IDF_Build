@@ -1,0 +1,6 @@
+{signal:[
+  {name: 'Command Bytes', wave: '2345....67',data:"Start[1Byte] Length[1Byte] Command[1Byte] Data[5Bytes] Stop[1Byte] CRC[1Byte]"},
+],
+head:{text:'Common Command Format'},
+config: { hscale: 3 },
+}

@@ -1,0 +1,6 @@
+{signal:[
+  {name: 'Command Bytes', wave: '2345555567',data:"0x55 0x0A 0x08 0x00 0x00 0x00 0x00 0x14 0x65 0x3A"},
+],
+head:{text:'Setting all Syringes Duration to 20 Minutes'},
+config: { hscale: 2 },
+}

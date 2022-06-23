@@ -1,0 +1,6 @@
+{signal:[
+  {name: 'Command Bytes', wave: '2345555567',data:"0x55 0x0A 0x04 0x00 0x00 0x00 0x00 0x00 0x65 0x27"},
+],
+head:{text:'For Stoping All Motors'},
+config: { hscale: 2 },
+}

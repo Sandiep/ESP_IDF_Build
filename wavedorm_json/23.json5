@@ -1,0 +1,6 @@
+{signal:[
+  {name: 'Commmand Bytes', wave: '2345555567',data:"0x55 0x0A 0x10 0x00 0x7E 0xF0 0x5E 0x3B 0x65 0x39"},
+],
+head:{text:'Setting First Syringe mm per full step to 0.00340170x5571'},
+config: { hscale: 2 },
+}
